@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Volumes/Noor/Aarhus University/Semester 3/ML/handin2/model_weights/cnn_h1024.weight"
+all_model_checkpoint_paths: "/Volumes/Noor/Aarhus University/Semester 3/ML/handin2/model_weights/cnn_h1024.weight"
